@@ -318,6 +318,9 @@ button.remove-btn {
 }
 
 ## OUTPUT
+![Screenshot 2025-05-05 114202](https://github.com/user-attachments/assets/b69fa1cf-77ef-4d09-b838-c4b6d5c8ce88)
+![Screenshot 2025-05-05 114212](https://github.com/user-attachments/assets/b8b09d36-1b1a-4b44-94d8-cbc79f145ca7)
+![Screenshot 2025-05-05 114412](https://github.com/user-attachments/assets/4cac618b-2676-4c81-bfac-a367da1b5df9)
 
 
 ## RESULT
